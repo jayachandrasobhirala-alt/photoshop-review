@@ -1,0 +1,7 @@
+.env.local
+.next/
+.DS_Store
+*.tgz
+yarn-error.log*
+build/
+dist/
